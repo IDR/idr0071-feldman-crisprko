@@ -1,0 +1,361 @@
+# STUDY DESCRIPTION SECTION
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details
+
+											
+Comment[IDR Study Accession]	idr0071
+Study Title	Optical pooled screens in human cells					
+Study Type	in situ sequencing
+Study Type Term Source REF	EFO
+Study Type Term Accession	EFO_0008989								
+Study Description	Genetic screens are critical for the systematic identification of genes underlying cellular phenotypes. Pooling gene perturbations greatly improves scalability, but is not compatible with imaging of complex and dynamic cellular phenotypes. Here, we introduce a pooled approach for optical genetic screens in mammalian cells. We use targeted in situ sequencing to demultiplex a library of genetic perturbations following image-based phenotyping. We screened a set of 952 genes across millions of cells for involvement in NF-κB signaling by imaging the translocation of RelA (p65) to the nucleus. Screening at a single time point across 3 cell lines recovered 15 known pathway components, while repeating the screen with live-cell imaging revealed a novel role for Mediator complex subunits in regulating the duration of p65 nuclear retention. These results establish a new approach to perform highly multiplexed, image-based screens of spatially and temporally defined phenotypes with pooled libraries.	
+Study Key Words	CRISPR	functional genomics	high-content screening	in situ sequencing	optical pooled screen	pooled screen
+Study Organism	Homo sapiens
+Study Organism Term Source REF	NCBITaxon
+Study Organism Term Accession	9606
+Study Experiments Number	6
+Study External URL		
+Study BioImage Archive Accession		
+Study Public Release Date	
+
+
+# Study Publication
+Study PubMed ID	31626775
+Study Publication Title	Optical pooled screens in human cells
+Study Author List	Feldman D, Singh A, Schmid-Burgk JL, Carlson RJ, Mezger A, Garrity AJ, Zhang F, Blainey P
+Study PMC ID	PMC6886477
+Study DOI	10.1016/j.cell.2019.09.016
+																				
+# Study Contacts
+Study Person Last Name	Blainey
+Study Person First Name	Paul
+Study Person Email	pblainey@broadinstitute.org
+Study Person Address	Blainey Lab, Broad Institute, Cambridge, Massachusetts
+Study Person ORCID	https://orcid.org/0000-0002-4889-8783
+Study Person Roles	submitter
+
+# Study License and Data DOI
+Study License	CC BY 4.0
+Study License URL	https://creativecommons.org/licenses/by/4.0/
+Study Copyright	Feldman et al
+Study Data Publisher	University of Dundee
+Study Data DOI																													
+Term Source Name	NCBITaxon	EFO	CMPO	FBbi
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/
+																																	
+# EXPERIMENT SECTION											
+# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment"																					
+Experiment Number	1											
+Comment[IDR Experiment Name]	idr0071-feldman-crisprko/experimentA
+Experiment Sample Type	cell
+Experiment Description	Optical pooled CRISPR knockout screen in HeLa cells for regulators of p65 translocation upon stimulation by IL-1b or TNF-a, detected by imaging a p65-mNeonGreen fluorescent reporter. CRISPR sgRNAs are detected by sequencing proxy barcodes in cells transduced with the lentiGuide-BC vector. Included cycles of sequencing-by-synthesis (SBS): 1, 2, 3, 4, 5, 6, 7, 8, 9.
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT):	Total Tb: 				
+Experiment Example Images	
+Experiment Imaging Method	fluorescence microscopy
+Experiment Imaging Method Term Source REF	Fbbi
+Experiment Imaging Method Term Accession	Fbbi_00000246
+Experiment Comments	widefield fluorescence microscopy
+
+
+# assay files
+Experiment Assay File	
+Experiment Assay File Format	tab-delimited text
+Assay Experimental Conditions	
+Assay Experimental Conditions Term Source REF	
+Assay Experimental Conditions Term Accession	
+Quality Control Description																																		
+# Protocols			
+Protocol Name	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol
+Protocol Type Term Source REF	EFO	EFO
+Protocol Type Term Accession	EFO_0003789	EFO_0003969
+Protocol Description	
+																		
+# Phenotypes			
+Phenotype Name	
+Phenotype Description	
+Phenotype Score Type	
+Phenotype Term Source REF	CMPO
+Phenotype Term Name	
+Phenotype Term Accession	
+																		
+# Feature Level Data Files (give individual file details unless there is one file per well)				
+Feature Level Data File Name	
+Feature Level Data File Format			
+Feature Level Data File Description	
+Feature Level Data Column Name	
+Feature Level Data Column Description	
+Feature Level Data Column Description																													
+#  Processed Data Files
+Processed Data File Name	
+Processed Data File Format	tab-delimited text
+Processed Data File Description	
+Processed Data Column Name	
+Processed Data Column Type	
+Processed Data Column Annotation Level	
+Processed Data Column Description	
+Processed Data Column Link To Assay File	
+
+
+
+Experiment Number	2											
+Comment[IDR Experiment Name]	idr0071-feldman-crisprko/experimentB
+Experiment Sample Type	cell
+Experiment Description	Optical pooled CRISPR knockout screen in HeLa cells for regulators of p65 translocation upon stimulation by IL-1b or TNF-a, detected by indirect immunofluorescence of endogenous p65. CRISPR sgRNAs are detected by sequencing from the 5' end of the sgRNA sequence in cells transduced with the CROPseq-Puro vector. Included cycles of sequencing by synthesis (SBS): 1, 2, 3, 5, 6, 7, 8, 9, 10
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT):	Total Tb: 					
+Experiment Example Images	
+Experiment Imaging Method	fluorescence microscopy
+Experiment Imaging Method Term Source REF	Fbbi
+Experiment Imaging Method Term Accession	Fbbi_00000246
+Experiment Comments	widefield fluorescence microscopy
+
+
+# assay files
+Experiment Assay File	
+Experiment Assay File Format	tab-delimited text
+Assay Experimental Conditions	
+Assay Experimental Conditions Term Source REF	
+Assay Experimental Conditions Term Accession	
+Quality Control Description																																		
+# Protocols			
+Protocol Name	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol
+Protocol Type Term Source REF	EFO	EFO
+Protocol Type Term Accession	EFO_0003789	EFO_0003969
+Protocol Description	
+																		
+# Phenotypes			
+Phenotype Name	
+Phenotype Description	
+Phenotype Score Type	
+Phenotype Term Source REF	CMPO
+Phenotype Term Name	
+Phenotype Term Accession	
+																		
+# Feature Level Data Files (give individual file details unless there is one file per well)				
+Feature Level Data File Name	
+Feature Level Data File Format			
+Feature Level Data File Description	
+Feature Level Data Column Name	
+Feature Level Data Column Description	
+Feature Level Data Column Description																													
+#  Processed Data Files
+Processed Data File Name	
+Processed Data File Format	tab-delimited text
+Processed Data File Description	
+Processed Data Column Name	
+Processed Data Column Type	
+Processed Data Column Annotation Level	
+Processed Data Column Description	
+Processed Data Column Link To Assay File	
+
+
+
+Experiment Number	3											
+Comment[IDR Experiment Name]	idr0071-feldman-crisprko/experimentC
+Experiment Sample Type	cell
+Experiment Description	Optical pooled CRISPR knockout screen in A549 cells for regulators of p65 translocation upon stimulation by IL-1b or TNF-a, detected by indirect immunofluorescence of endogenous p65. CRISPR sgRNAs are detected by sequencing from the 5' end of the sgRNA sequence in cells transduced with the CROPseq-Puro vector. Included cycles of sequencing-by-synthesis (SBS): 1, 2, 3, 4, 5, 7, 8, 9, 10.
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT):	Total Tb: 					
+Experiment Example Images	
+Experiment Imaging Method	fluorescence microscopy
+Experiment Imaging Method Term Source REF	Fbbi
+Experiment Imaging Method Term Accession	Fbbi_00000246
+Experiment Comments	widefield fluorescence microscopy
+
+
+# assay files
+Experiment Assay File	
+Experiment Assay File Format	tab-delimited text
+Assay Experimental Conditions	
+Assay Experimental Conditions Term Source REF	
+Assay Experimental Conditions Term Accession	
+Quality Control Description																																		
+# Protocols			
+Protocol Name	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol
+Protocol Type Term Source REF	EFO	EFO
+Protocol Type Term Accession	EFO_0003789	EFO_0003969
+Protocol Description	
+																		
+# Phenotypes			
+Phenotype Name	
+Phenotype Description	
+Phenotype Score Type	
+Phenotype Term Source REF	CMPO
+Phenotype Term Name	
+Phenotype Term Accession	
+																		
+# Feature Level Data Files (give individual file details unless there is one file per well)				
+Feature Level Data File Name	
+Feature Level Data File Format			
+Feature Level Data File Description	
+Feature Level Data Column Name	
+Feature Level Data Column Description	
+Feature Level Data Column Description																													
+#  Processed Data Files
+Processed Data File Name	
+Processed Data File Format	tab-delimited text
+Processed Data File Description	
+Processed Data Column Name	
+Processed Data Column Type	
+Processed Data Column Annotation Level	
+Processed Data Column Description	
+Processed Data Column Link To Assay File	
+
+
+
+Experiment Number	4											
+Comment[IDR Experiment Name]	idr0071-feldman-crisprko/experimentD
+Experiment Sample Type	cell
+Experiment Description	Optical pooled CRISPR knockout screen in HCT-116 cells for regulators of p65 translocation upon stimulation by IL-1b or TNF-a, detected by indirect immunofluorescence of endogenous p65. CRISPR sgRNAs are detected by sequencing from the 5' end of the sgRNA sequence in cells transduced with the CROPseq-Puro vector. Included cycles of sequencing-by-synthesis (SBS): 1, 2, 3, 4, 5, 6, 7, 8, 9.
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT):	Total Tb: 					
+Experiment Example Images	
+Experiment Imaging Method	fluorescence microscopy
+Experiment Imaging Method Term Source REF	Fbbi
+Experiment Imaging Method Term Accession	Fbbi_00000246	
+Experiment Comments	widefield fluorescence microscopy
+
+
+# assay files
+Experiment Assay File	
+Experiment Assay File Format	tab-delimited text
+Assay Experimental Conditions	
+Assay Experimental Conditions Term Source REF	
+Assay Experimental Conditions Term Accession	
+Quality Control Description																																		
+# Protocols			
+Protocol Name	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol
+Protocol Type Term Source REF	EFO	EFO
+Protocol Type Term Accession	EFO_0003789	EFO_0003969
+Protocol Description	
+																		
+# Phenotypes			
+Phenotype Name	
+Phenotype Description	
+Phenotype Score Type	
+Phenotype Term Source REF	CMPO
+Phenotype Term Name	
+Phenotype Term Accession	
+																		
+# Feature Level Data Files (give individual file details unless there is one file per well)				
+Feature Level Data File Name	
+Feature Level Data File Format			
+Feature Level Data File Description	
+Feature Level Data Column Name	
+Feature Level Data Column Description	
+Feature Level Data Column Description																													
+#  Processed Data Files
+Processed Data File Name	
+Processed Data File Format	tab-delimited text
+Processed Data File Description	
+Processed Data Column Name	
+Processed Data Column Type	
+Processed Data Column Annotation Level	
+Processed Data Column Description	
+Processed Data Column Link To Assay File
+	
+
+
+Experiment Number	5											
+Comment[IDR Experiment Name]	idr0071-feldman-crisprko/experimentE
+Experiment Sample Type	cell
+Experiment Description	Twelve cycles of in situ sequencing in HeLa cells expressing barcodes from the lentiGuide-BC lentiviral vector. Included cycles of sequencing-by-synthesis (SBS): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12.
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT):	Total Tb: 					
+Experiment Example Images	
+Experiment Imaging Method	fluorescence microscopy
+Experiment Imaging Method Term Source REF	Fbbi
+Experiment Imaging Method Term Accession	Fbbi_00000246
+Experiment Comments	widefield fluorescence microscopy
+
+
+# assay files
+Experiment Assay File	
+Experiment Assay File Format	tab-delimited text
+Assay Experimental Conditions	
+Assay Experimental Conditions Term Source REF	
+Assay Experimental Conditions Term Accession	
+Quality Control Description																																		
+# Protocols			
+Protocol Name	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol
+Protocol Type Term Source REF	EFO	EFO
+Protocol Type Term Accession	EFO_0003789	EFO_0003969
+Protocol Description	
+																		
+# Phenotypes			
+Phenotype Name	
+Phenotype Description	
+Phenotype Score Type	
+Phenotype Term Source REF	CMPO
+Phenotype Term Name	
+Phenotype Term Accession	
+																		
+# Feature Level Data Files (give individual file details unless there is one file per well)				
+Feature Level Data File Name	
+Feature Level Data File Format			
+Feature Level Data File Description	
+Feature Level Data Column Name	
+Feature Level Data Column Description	
+Feature Level Data Column Description																													
+#  Processed Data Files
+Processed Data File Name	
+Processed Data File Format	tab-delimited text
+Processed Data File Description	
+Processed Data Column Name	
+Processed Data Column Type	
+Processed Data Column Annotation Level	
+Processed Data Column Description	
+Processed Data Column Link To Assay File
+	
+
+
+Experiment Number	6											
+Comment[IDR Experiment Name]	idr0071-feldman-crisprko/experimentF
+Experiment Sample Type	cell
+Experiment Description	Combinatorial detection of multiple CRISPR sgRNAs per cell in HeLa cells serially transduced with the CROPseq-Puro and CROPseq-Zeo vectors. Included cycles of sequencing-by-synthesis (SBS): 1, 2, 3, 4, 5, 6.
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT):	Total Tb: 				
+Experiment Example Images	
+Experiment Imaging Method	fluorescence microscopy
+Experiment Imaging Method Term Source REF	Fbbi
+Experiment Imaging Method Term Accession	Fbbi_00000246
+Experiment Comments	widefield fluorescence microscopy
+
+
+# assay files
+Experiment Assay File	
+Experiment Assay File Format	tab-delimited text
+Assay Experimental Conditions	
+Assay Experimental Conditions Term Source REF	
+Assay Experimental Conditions Term Accession	
+Quality Control Description																																		
+# Protocols			
+Protocol Name	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol
+Protocol Type Term Source REF	EFO	EFO
+Protocol Type Term Accession	EFO_0003789	EFO_0003969
+Protocol Description	
+																		
+# Phenotypes			
+Phenotype Name	
+Phenotype Description	
+Phenotype Score Type	
+Phenotype Term Source REF	CMPO
+Phenotype Term Name	
+Phenotype Term Accession	
+																		
+# Feature Level Data Files (give individual file details unless there is one file per well)				
+Feature Level Data File Name	
+Feature Level Data File Format			
+Feature Level Data File Description	
+Feature Level Data Column Name	
+Feature Level Data Column Description	
+Feature Level Data Column Description																													
+#  Processed Data Files
+Processed Data File Name	
+Processed Data File Format	tab-delimited text
+Processed Data File Description	
+Processed Data Column Name	
+Processed Data Column Type	
+Processed Data Column Annotation Level	
+Processed Data Column Description	
+Processed Data Column Link To Assay File	

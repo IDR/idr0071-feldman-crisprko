@@ -1,0 +1,667 @@
+projects:
+- datasets:
+  - name: c1-SBS-1 sbs A1 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c1-SBS-1 sbs A2 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c1-SBS-1 sbs B1 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c1-SBS-1 sbs B2 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c2-SBS-2 sbs A1 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c2-SBS-2 sbs A2 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c2-SBS-2 sbs B1 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c2-SBS-2 sbs B2 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c3-SBS-3 sbs A1 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c3-SBS-3 sbs A2 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c3-SBS-3 sbs B1 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c3-SBS-3 sbs B2 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c4-SBS-4 sbs A1 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c4-SBS-4 sbs A2 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c4-SBS-4 sbs B1 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c4-SBS-4 sbs B2 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c5-SBS-5 sbs A1 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c5-SBS-5 sbs A2 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c5-SBS-5 sbs B1 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c5-SBS-5 sbs B2 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c6-SBS-6 sbs A1 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c6-SBS-6 sbs A2 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c6-SBS-6 sbs B1 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: c6-SBS-6 sbs B2 raw
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: aligned A1 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: cells A1 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: Cells
+      greyscale: false
+  - name: log A1 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: nuclei A1 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: Nuclei
+      greyscale: false
+  - name: aligned A2 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: cells A2 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: Cells
+      greyscale: false
+  - name: log A2 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: nuclei A2 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: Nuclei
+      greyscale: false
+  - name: aligned B1 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: cells B1 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: Cells
+      greyscale: false
+  - name: log B1 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: nuclei B1 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: Nuclei
+      greyscale: false
+  - name: aligned B2 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: cells B2 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: Cells
+      greyscale: false
+  - name: log B2 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: DAPI
+        2:
+          active: true
+          label: Cy3
+        3:
+          active: true
+          label: A594
+        4:
+          active: true
+          label: Cy5
+        5:
+          active: true
+          label: Cy7
+      greyscale: false
+  - name: nuclei B2 process
+    renderdef:
+      channels:
+        1:
+          active: true
+          label: Nuclei
+      greyscale: false
+  name: idr0071-feldman-crisprko/experimentF
